@@ -1,1 +1,1 @@
-Мой фронтенд: https://diesel-front.nomoredomainswork.ru
+Мой бэкенд: https://diesel.nomoredomainswork.ru
